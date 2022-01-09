@@ -1,0 +1,3 @@
+[submodule "wootlab"]
+	path = wootlab
+	url = https://github.com/AlexSwiss/wootlab.git
