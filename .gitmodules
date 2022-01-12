@@ -1,3 +1,6 @@
 [submodule "wootlab"]
 	path = wootlab
 	url = https://github.com/AlexSwiss/wootlab.git
+[submodule "wootlab-frontend"]
+	path = wootlab-frontend
+	url = https://github.com/AlexSwiss/wootlab-frontend.git
